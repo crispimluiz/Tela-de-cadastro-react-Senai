@@ -8,4 +8,4 @@ export default props =>
             <hr />
             <p className="mb-0">Cadastro</p>
         </Main>
-        //teste
+        
